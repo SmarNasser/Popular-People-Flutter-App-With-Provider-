@@ -1,4 +1,4 @@
-# movie_provider_app
+# Popular People Flutter App With Provider
 
 A new Flutter application.
 
